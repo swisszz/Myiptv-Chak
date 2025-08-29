@@ -1,0 +1,32 @@
+{
+"name": "IptVs",
+"author": "🆂wisszz",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://raw.githubusercontent.com/swisszz/Mein-wise/refs/heads/main/Meiniptv.w3u",
+"telegram": "Swisszz Live and Fun",
+"info":"",
+"groups":
+    [   
+        {
+        "name": "IPTV 01 [🇹🇭TV Swisszz LIVE]",
+        "info":"",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "https://raw.githubusercontent.com/swisszz/Myiptv/refs/heads/main/Myiptv.w3u",
+        "import": false
+        },
+        {
+        "name": "IPTV 🇹🇭TVThai",
+        "image": "https://i.postimg.cc/wMjPCqRz/icon-png.jpg",
+        "url": "https://raw.githubusercontent.com/swisszz/CHAKIPTV/refs/heads/main/CHAKIPTV",
+        "info":"Ilimitadas conex",
+        "import": false
+        },
+        {
+        "name": "IPTV World",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://99d0dce18193.iedem.com/playlists/uplist/4dfcfb9bf28d57df404b0d2216f615c4/playlist.m3u8",
+        "info":"300 conex",
+        "import": false
+        }
+    ]
+}
