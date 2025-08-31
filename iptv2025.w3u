@@ -7,20 +7,72 @@
 "info":"",
 "groups":
     [   
+         {
+      "name": "ดูทีวีออนไลน์ ไทยรัฐทีวี ช่อง 32",
+      "image": "https://n9.cl/ec4a0",
+      "url": "https://www.adintrend.tv/hd/ch39?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
+         {
+      "name": "ดูทีวีออนไลน์ ช่อง 3 ช่อง 33",
+      "image": "https://n9.cl/jsiqo",
+      "url": "https://www.adintrend.tv/hd/ch3?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
         {
-        "name": "IPTV 01 [🇹🇭TV Swisszz LIVE]",
-        "info":"",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "https://raw.githubusercontent.com/swisszz/Myiptv/refs/heads/main/Myiptv.w3u",
-        "import": false
-        },
-        {
-        "name": "IPTV 🇹🇭TVThai",
-        "image": "https://i.postimg.cc/wMjPCqRz/icon-png.jpg",
-        "url": "https://raw.githubusercontent.com/swisszz/CHAKIPTV/refs/heads/main/CHAKIPTV",
-        "info":"Ilimitadas conex",
-        "import": false
-        },
+      "name": "ดูทีวีออนไลน์ ช่อง 8",
+      "image": "https://n9.cl/d2ksaw",
+      "url": "https://www.adintrend.tv/hd/ch33?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
+     {
+      "name": "ดูทีวีออนไลน์ ช่องอมรินทร์ทีวี AMARIN TV ช่อง 34",
+      "image": "https://n9.cl/7d33n",
+      "url": "https://www.adintrend.tv/hd/ch26?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
+     {
+      "name": "ดูทีวีออนไลน์ ช่อง PPTV HD ช่อง 36",
+      "image": "https://n9.cl/wmbwp",
+      "url": "https://www.adintrend.tv/hd/ch25?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
+     {
+      "name": "ดูทีวีออนไลน์ ช่อง เนชั่นทีวี Nation Channel ช่อง 22",
+      "image": "https://n9.cl/pkxl3",
+      "url": "https://www.adintrend.tv/hd/ch37?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
+     {
+      "name": "ดูทีวีออนไลน์ ช่อง 9 Mcot ",
+      "image": "https://n9.cl/83jvz",
+      "url": "https://www.adintrend.tv/hd/ch9?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
+     {
+      "name": "ดูทีวีออนไลน์ ช่อง 11 NBT",
+      "image": "https://n9.cl/49yt5v",
+      "url": "https://www.adintrend.tv/hd/ch11?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
+     {
+      "name": "ดูทีวีออนไลน์ ช่อง 5",
+      "image": "https://n9.cl/ec4a0",
+      "url": "https://www.adintrend.tv/hd/ch5?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
+     {
+      "name": "ดูทีวีออนไลน์ ช่อง Thai PBS ไทยพีบีเอส",
+      "image": "https://n9.cl/jm4y4i",
+      "url": "https://www.adintrend.tv/hd/ch1?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
+    {
+      "name": "ดูทีวีออนไลน์ ช่อง MONO29 โมโน29",
+      "image": "https://n9.cl/afnnk",
+      "url": "https://www.adintrend.tv/hd/ch38?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
         {
         "name": "IPTV World",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
