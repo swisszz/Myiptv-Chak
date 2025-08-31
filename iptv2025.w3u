@@ -1,12 +1,8 @@
 {
-"name": "IptVs",
-"author": "🆂wisszz",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-"url": "https://raw.githubusercontent.com/swisszz/Mein-wise/refs/heads/main/Meiniptv.w3u",
-"telegram": "Swisszz Live and Fun",
-"info":"",
-"groups":
-    [   
+              "name": "swisszz TV Online",
+  "image": "https://i.postimg.cc/VLNzRTv9/icon-png.jpg",
+  "url": "https://raw.githubusercontent.com/swisszz/Myiptv/main/Myiptv.w3u",
+  "stations": [
          {
       "name": "ดูทีวีออนไลน์ ไทยรัฐทีวี ช่อง 32",
       "image": "https://n9.cl/ec4a0",
