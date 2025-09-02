@@ -116,7 +116,7 @@
     },
      {
       "name": "RTL🇩🇪",
-      "image": "https://n9.cl/3kqnb",
+      "image": "https://n9.cl/99qn1u",
       "url": "https://www.canlitv.me/live/rtl-live",
       "referer": "https://www.canlitv.me/"
     },
@@ -130,6 +130,12 @@
       "name": "Zdf🇩🇪",
       "image": "https://n9.cl/znnvt8",
       "url": "https://www.canlitv.me/live/zdf-live",
+      "referer": "https://www.canlitv.me/"
+    },
+    {
+      "name": "ARD1🇩🇪",
+      "image": "https://n9.cl/a3hug",
+      "url": "https://www.canlitv.me/live/ard-live",
       "referer": "https://www.canlitv.me/"
     },
     {
