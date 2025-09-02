@@ -174,5 +174,53 @@
       "url": "https://www.2ix2.com/dmax/",
       "referer": "https://www.2ix2.com/"
     },
+    {
+      "name": "RTL2 ",
+      "image": "https://n9.cl/97g8o",
+      "url": "https://www.2ix2.com/rtl2-live/",
+      "referer": "https://www.2ix2.com/"
+    },
+    {
+      "name": "N-TV",
+      "image": "https://n9.cl/860c4",
+      "url": "https://www.2ix2.com/n-tv-live/",
+      "referer": "https://www.2ix2.com/"
+    },
+    {
+      "name": "RTL Nitro ",
+      "image": "https://n9.cl/194v1d",
+      "url": "https://www.2ix2.com/rtl-nitro-tv/",
+      "referer": "https://www.2ix2.com/"
+    },
+    {
+      "name": "Super RTL ",
+      "image": "https://n9.cl/xd4dyn",
+      "url": "https://www.2ix2.com/super-rtl-live/",
+      "referer": "https://www.2ix2.com/"
+    },
+    {
+      "name": "TLC",
+      "image": "https://n9.cl/ltjm9",
+      "url": "https://www.2ix2.com/tlc/",
+      "referer": "https://www.2ix2.com/"
+    },
+    {
+      "name": "ProSieben Maxx ",
+      "image": "https://n9.cl/4iml6p",
+      "url": "https://www.2ix2.com/prosieben-maxx-tv/",
+      "referer": "https://www.2ix2.com/"
+    },
+    {
+      "name": "Kabel 1 Doku ",
+      "image": "https://n9.cl/cadm6j",
+      "url": "https://www.2ix2.com/kabel-1-doku/",
+      "referer": "https://www.2ix2.com/"
+    },
+    {
+      "name": "Dmax ",
+      "image": "https://n9.cl/hhz50",
+      "url": "https://www.2ix2.com/dmax/",
+      "referer": "https://www.2ix2.com/"
+    },
     ]                                                     
     }
