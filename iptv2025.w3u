@@ -217,9 +217,15 @@
       "referer": "https://www.2ix2.com/"
     },
     {
-      "name": "Dmax ",
-      "image": "https://n9.cl/hhz50",
-      "url": "https://www.2ix2.com/dmax/",
+      "name": "Tele5",
+      "image": "https://n9.cl/o0i0s",
+      "url": "https://www.2ix2.com/tele-5/",
+      "referer": "https://www.2ix2.com/"
+    },
+    {
+      "name": "Sat1",
+      "image": "https://n9.cl/f99kdu",
+      "url": "https://www.2ix2.com/sat-1/",
       "referer": "https://www.2ix2.com/"
     },
     ]                                                     
