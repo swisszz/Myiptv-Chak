@@ -114,6 +114,18 @@
       "url": "https://www.inwiptv.com/player_demo.php?channel=27132",
       "referer": "https://www.inwiptv.com/"
     },
+     {
+      "name": "CH8🇹🇭TV",
+      "image": "https://n9.cl/81pw3",
+      "url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
+      "referer": "http://54c241893bf39.streamlock.net/"
+    },
+    {
+      "name": "ดูทีวีออนไลน์ ไทยรัฐทีวี ช่อง 32",
+      "image": "https://n9.cl/ec4a0",
+      "url": "https://www.adintrend.tv/hd/ch39?t=live",
+      "referer": "https://www.adintrend.tv/"
+    },
     {
       "name": "Pro7🇩🇪",
       "image": "https://n9.cl/c5r8r",
@@ -151,12 +163,6 @@
       "referer": "http://cf3e1888.akadatel.com/"
     },
     {
-      "name": "CH8🇹🇭TV",
-      "image": "https://n9.cl/81pw3",
-      "url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
-      "referer": "http://54c241893bf39.streamlock.net/"
-    },
-    {
       "name": "MTV🇩🇪",
       "image": "https://n9.cl/ftqnk",
       "url": "https://relink.asia/VI6G9",
@@ -167,12 +173,6 @@
       "image": "https://n9.cl/a74ek2",
       "url": "https://www.aljazeera.com/live",
       "referer": "https://www.aljazeera.com/"
-    },
-    {
-      "name": "ดูทีวีออนไลน์ ไทยรัฐทีวี ช่อง 32",
-      "image": "https://n9.cl/ec4a0",
-      "url": "https://www.adintrend.tv/hd/ch39?t=live",
-      "referer": "https://www.adintrend.tv/"
     },
     {
       "name": "Dmax🇩🇪",
