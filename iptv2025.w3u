@@ -127,10 +127,10 @@
       "referer": "https://www.adintrend.tv/"
     },
      {
-       "name": "True ID",
+       "name": "MVTV",
        "image": "https://sv1.picz.in.th/images/2020/11/30/jBKU2Z.png",
-       "url": "https://tv.trueid.net/embed/dharmatv?autoplay=yes&nopageview=yes",
-       "referer": "https://tv.trueid.net/"
+       "url": "https://www.mvtv.co.th/channel/v2h2",
+       "referer": "https://www.mvtv.co.th/"
     },      
     {
       "name": "Pro7🇩🇪",
