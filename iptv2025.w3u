@@ -126,6 +126,12 @@
       "url": "https://www.adintrend.tv/hd/ch39?t=live",
       "referer": "https://www.adintrend.tv/"
     },
+     {
+              "name": "True ID",
+              "image": "https://sv1.picz.in.th/images/2020/11/30/jBKU2Z.png",
+              "url": "https://tv.trueid.net/embed/dharmatv?autoplay=yes&nopageview=yes",
+              "playInNatPlayer": "true"
+            },
     {
       "name": "Pro7🇩🇪",
       "image": "https://n9.cl/c5r8r",
