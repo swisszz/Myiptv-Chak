@@ -7,7 +7,7 @@ export default async function handler(req, res) {
     return res.status(403).send('403 Forbidden - Browser access denied');
   }
 
-  const m3uUrl = 'https://github.com/swisszz/iptv-host/blob/main/turk.m3u';
+  const m3uUrl = 'https://raw.githubusercontent.com/swisszz/turkmetmet/refs/heads/main/Memetturk';
   try {
     const response = await fetch(m3uUrl);
     const m3uContent = await response.text();
